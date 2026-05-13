@@ -1,128 +1,168 @@
-<h1 align="center">Hey there 👋, I'm Gouri Bindal</h1>
+<h1 align="center">Hey 👋, I'm Gouri Bindal</h1>
+
+<h3 align="center">
+Computer Science Engineering Student • Developer • AI/ML Enthusiast
+</h3>
 
 <p align="center">
-Computer Science Engineering student passionate about building, learning, experimenting, and growing through technology.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+and+Learning+Everyday;Exploring+AI%2FML+and+Full+Stack+Development;Flutter+Learner+%F0%9F%93%B1;Always+Curious+About+Technology" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gouri9406&label=Profile%20Views&color=ec4899&style=flat" />
 </p>
 
 ---
 
-## ✨ A Little About Me
+# 🌸 About Me
 
-I enjoy turning ideas into projects and learning new technologies through hands-on development.
+```python
+class GouriBindal:
 
-My interests mainly revolve around:
+    def __init__(self):
+        self.role = "CSE Student"
+        self.interests = [
+            "Web Development",
+            "Machine Learning",
+            "Mobile App Development",
+            "Automation",
+            "Problem Solving"
+        ]
+
+    def current_focus(self):
+        return [
+            "AI/ML",
+            "Full Stack Development",
+            "Flutter",
+            "Building Real-World Projects"
+        ]
+```
+
+💡 I enjoy learning through practical projects, experimenting with new technologies, and continuously improving my development skills.
+
+✨ I’m passionate about creating applications that are useful, interactive, and impactful.
+
+---
+
+# 🚀 Current Focus
 
 - 🌐 Full Stack Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 📱 Mobile App Development
-- ⚙️ Automation & Productivity Tools
-- 🧩 Problem Solving & Logical Thinking
-
-I believe the best way to learn is by building things consistently and improving one step at a time.
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Developing real-world software projects
-- 📘 Strengthening DSA & development fundamentals
-- 🤖 Exploring Machine Learning workflows
-- 📱 Building apps using Flutter
-- 🌱 Writing cleaner and more maintainable code
+- 🤖 Machine Learning & AI
+- 📱 Flutter App Development
+- ⚙️ Backend Development
+- 🧩 DSA & Problem Solving
+- 🛠️ Building scalable projects
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 </p>
 
-### Web Technologies
+### 🌐 Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
-### Mobile Development
+### 📱 Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-### Tools & Platforms
+### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
 ### 📊 Placement Prediction using Machine Learning
-Developed a machine learning model to analyze student data and predict placement outcomes using data-driven approaches.
+Built a machine learning model to analyze student data and predict placement outcomes using data-driven techniques.
 
 ---
 
 ### 📧 Automated Email Categorization System
-Created an automation workflow using n8n to intelligently organize and manage incoming emails.
+Developed an intelligent email automation workflow using n8n for categorization and management.
 
 ---
 
 ### 🏠 HomeTails
-Designed and developed a web-based platform with focus on usability, responsiveness, and user experience.
+Created a web-based platform focused on smooth user experience, responsiveness, and modern UI.
 
 ---
 
 ### 📱 ClubSync
-Built a mobile application for club and event management to simplify coordination, communication, and engagement.
+Developed a mobile application for club and event coordination with communication and management features.
 
 ---
 
-## 📚 What I'm Exploring
+# 📚 Currently Exploring
 
-- Machine Learning & AI Concepts
-- Backend Development
-- REST APIs
-- Responsive UI/UX
-- Software Engineering Practices
-- Scalable Application Development
+- 🔹 Artificial Intelligence & Machine Learning
+- 🔹 REST APIs & Backend Development
+- 🔹 Responsive UI/UX Design
+- 🔹 Software Engineering Practices
+- 🔹 Clean Code & Project Architecture
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gouri9406&show_icons=true&theme=transparent&hide_border=true"
-    height="165"
-  />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouri9406&layout=compact&theme=transparent&hide_border=true"
-    height="165"
-  />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=gouri9406&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouri9406&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/gouri9406">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gouri-bindal-04430b324/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://leetcode.com/u/gouri_2195/">
-  <img src="https://cdn.simpleicons.org/leetcode" height="40"/>
+  <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
 </a>
 
 </p>
 
 ---
 
-## 🌸 Personal Note
+# ✨ Fun Fact
 
-> “Growth comes from consistency, curiosity, and the courage to keep learning.”
+```txt
+I love transforming ideas into real projects and learning something new with every build 🚀
+```
 
-Thanks for stopping by ✨
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gouri9406&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<h3 align="center">
+🌷 Code • Learn • Build • Grow 🌷
+</h3>
