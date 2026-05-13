@@ -1,119 +1,143 @@
 <h1 align="center">Hi 👋, I'm Gouri Bindal</h1>
-<h3 align="center">CSE Student | Aspiring Software Developer | AI/ML Enthusiast</h3>
+
+<h3 align="center">
+CSE Student • Aspiring Software Developer • AI/ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI%2FML+Enthusiast;Full+Stack+Developer;Flutter+Learner;Always+Building+and+Learning" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Passionate about Full Stack Development & AI/ML
-- 📱 Interested in Mobile App Development
-- 📊 Exploring Data Analysis & Automation
-- 🌱 Currently learning advanced Machine Learning & Backend Development
-- ⚡ Love building impactful real-world projects
+```python
+class GouriBindal:
+
+    def __init__(self):
+        self.role = "CSE Student"
+        self.interests = [
+            "Web Development",
+            "Machine Learning",
+            "Mobile App Development",
+            "Automation",
+            "Problem Solving"
+        ]
+
+    def current_focus(self):
+        return [
+            "AI/ML Projects",
+            "Full Stack Development",
+            "Flutter Apps",
+            "Open Source"
+        ]
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 </p>
 
 ### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
-### 📱 Mobile App Development
-<p>
+### 📱 Mobile Development
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
 ### ⚙️ Tools & Platforms
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### 🤖 AI/ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+---
+
+# 📂 Featured Projects
+
+## 🔹 Placement Prediction using Machine Learning
+📊 ML model to predict placement outcomes using academic and skill-based datasets.
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Placement Prediction using Machine Learning
-> Built an ML-based system to predict placement outcomes using student academic and skill data.
-
-### 🔹 Automated Email Categorization System
-> Developed an automated workflow using n8n for intelligent email categorization and management.
-
-### 🔹 HomeTails
-> A web-based platform focused on delivering a seamless and user-friendly experience.
-
-### 🔹 ClubSync
-> Mobile application for club and event management with features for coordination and communication.
+## 🔹 Automated Email Categorization System
+📧 Smart email categorization workflow built using n8n automation.
 
 ---
 
-## 📈 GitHub Stats
+## 🔹 HomeTails
+🏠 Web-based platform focused on delivering a smooth and user-friendly experience.
+
+---
+
+## 🔹 ClubSync
+📱 Mobile app for club and event management with better communication and coordination.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 💡 Currently Exploring
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-## 🎯 Goals
-
-- 🚀 Become a skilled Software Engineer
-- 🤖 Build impactful AI/ML & Full Stack projects
-- 🌍 Contribute to Open Source
-- 📚 Continuously learn and improve
+- 🤖 Machine Learning & AI
+- 🌐 Full Stack Web Development
+- 📱 Flutter App Development
+- ⚙️ Backend Development
+- 🚀 Real-World Project Building
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://leetcode.com/YOUR_LEETCODE">
+  <img src="https://cdn.simpleicons.org/leetcode" height="45" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+<h3 align="center">
+✨ Code • Learn • Build • Repeat ✨
+</h3>
