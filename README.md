@@ -5,7 +5,7 @@ Computer Science Engineering Student • Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6D68AF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+and+Learning+Everyday;Exploring+AI%2FML+and+Full+Stack+Development;Always+Curious+About+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8F00FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+and+Learning+Everyday;Exploring+AI%2FML+and+Full+Stack+Development;Always+Curious+About+Technology" />
 </p>
 
 <p align="center">
